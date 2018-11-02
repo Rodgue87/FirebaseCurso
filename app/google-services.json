@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200828423085",
+    "firebase_url": "https://android-examples-accbe.firebaseio.com",
+    "project_id": "android-examples-accbe",
+    "storage_bucket": "android-examples-accbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200828423085:android:d0188856206bcc8c",
+        "android_client_info": {
+          "package_name": "com.rodrigoguerra.firebasecurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200828423085-jsjj3rno2nkn59bc6vvis8mb8gg5tf0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodrigoguerra.firebasecurso",
+            "certificate_hash": "e772adb78cfc20ade7413413f5bc2a90f95b659f"
+          }
+        },
+        {
+          "client_id": "200828423085-5cvrg25g5ooorjd0qpqo9bks0k010os2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSi9qLrnv01s2tr4eEUWnQdD7GU8XX4vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200828423085-5cvrg25g5ooorjd0qpqo9bks0k010os2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

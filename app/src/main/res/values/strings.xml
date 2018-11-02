@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseCurso</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account_button">CREATE ACCOUNT</string>
+    <string name="signin_button">SIGN IN</string>
+    <string name="welcome_to_platzi">Welcome to platzi</string>
+    <string name="signout_button">Sign Out</string>
+</resources>
